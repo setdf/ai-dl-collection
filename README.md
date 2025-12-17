@@ -10,3 +10,15 @@ Machine learning classification to predict hotel price categories using multiple
 
 **[Deep Neural Networks from Scratch](https://github.com/setdf/deep-neural-network-from-scratch)**  
 Complete from-scratch implementation of neural networks with custom layers and optimizers
+
+**[Triplet-VAE-AdvGAN](https://github.com/setdf/Triplet-VAE-AdvGAN)**  
+A dual-project repository implementing a Triplet Variational Autoencoder for unsupervised anomaly detection in brain MRI and an Adversarial Generative Network for generating attacks on image classifiers.
+
+**[Spam-Detection-ParsBERT-Oil-Price-LSTM-ARIMA](https://github.com/setdf/Spam-Detection-ParsBERT-Oil-Price-LSTM-ARIMA)**  
+Two applied NLP and time-series projects: Persian SMS spam detection using ParsBERT & CNN-LSTM hybrids, and crude oil price forecasting with LSTM networks and ARIMA models.
+
+**[Wind-Force-Transformer-ViT-Blood-Cells](https://github.com/setdf/Wind-Force-Transformer-ViT-Blood-Cells)**  
+Applied deep learning projects featuring a Transformer model with Huber loss for wind force prediction and a comparative study of Vision Transformers vs. CNNs for white blood cell image classification.
+
+
+
